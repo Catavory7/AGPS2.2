@@ -1,0 +1,26 @@
+[
+    {
+        "ip":"*",
+        "password":"1234Cats",
+        "role":"ADMIN",
+        "name":"Admin"
+    },
+    {
+        "ip":"*",
+        "password":"bh3k",
+        "role":"MODER",
+        "name":"Mod"
+    },
+    {
+        "ip":"*",
+        "password":"bh4k",
+        "role":"JrMod",
+        "name":"JrMod"
+    },
+    {
+        "ip":"127.0.0.1",
+        "password":"Log",
+        "role":"USER",
+        "name":"Local User"
+    }
+]
